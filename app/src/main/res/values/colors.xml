@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="primary">#00C853</color>
+    <color name="primary_dark">#009624</color>
+    <color name="primary_light">#E8F5E9</color>
+    <color name="primary_container">#DCEDC8</color>
+
+    <!-- Accent & Secondary Colors -->
+    <color name="secondary">#FF6D00</color>
+    <color name="secondary_dark">#E65100</color>
+    <color name="secondary_light">#FFE0B2</color>
+    <color name="accent_amber">#FFD600</color>
+    <color name="accent_teal">#00B8D4</color>
+    <color name="accent_purple">#7B1FA2</color>
+
+    <!-- UI Backgrounds and Surfaces -->
+    <color name="background_light">#F4F6F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_variant">#EAEFEA</color>
+    <color name="divider_color">#E0E0E0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A211E</color>
+    <color name="text_secondary">#5F6B66</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Status & Badge Colors -->
+    <color name="status_fresh">#2E7D32</color>
+    <color name="status_fresh_bg">#E8F5E9</color>
+    <color name="status_expiring">#E65100</color>
+    <color name="status_expiring_bg">#FFF3E0</color>
+    <color name="status_expired">#C62828</color>
+    <color name="status_expired_bg">#FFEBEE</color>
+
+    <!-- Category Specific Vibrant Colors -->
+    <color name="cat_produce_bg">#E8F5E9</color>
+    <color name="cat_produce_text">#2E7D32</color>
+    <color name="cat_dairy_bg">#E1F5FE</color>
+    <color name="cat_dairy_text">#0277BD</color>
+    <color name="cat_meat_bg">#FFEBEE</color>
+    <color name="cat_meat_text">#C62828</color>
+    <color name="cat_bakery_bg">#FFF3E0</color>
+    <color name="cat_bakery_text">#EF6C00</color>
+    <color name="cat_grains_bg">#F3E5F5</color>
+    <color name="cat_grains_text">#6A1B9A</color>
+    <color name="cat_spices_bg">#FFFDE7</color>
+    <color name="cat_spices_text">#F57F17</color>
+    <color name="cat_canned_bg">#E0F2F1</color>
+    <color name="cat_canned_text">#00695C</color>
+</resources>

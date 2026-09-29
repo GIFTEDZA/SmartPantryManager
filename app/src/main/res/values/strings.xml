@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string name="nav_pantry">Pantry</string>
+    <string name="nav_suggested">Suggested</string>
+    <string name="nav_recipes">All Recipes</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Pantry Screen -->
+    <string name="pantry_title">My Pantry</string>
+    <string name="search_pantry_hint">Search ingredients&#8230;</string>
+    <string name="empty_pantry_msg">Your pantry is empty!\nAdd ingredients to get smart recipe suggestions.</string>
+    <string name="add_first_ingredient">Add First Ingredient</string>
+
+    <!-- Add/Edit Screen -->
+    <string name="title_add_ingredient">Add Ingredient</string>
+    <string name="title_edit_ingredient">Edit Ingredient</string>
+    <string name="lbl_ingredient_name">Ingredient Name</string>
+    <string name="lbl_quantity">Quantity</string>
+    <string name="lbl_unit">Unit</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_expiry_date">Expiry Date (Optional)</string>
+    <string name="btn_save">Save Ingredient</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="err_name_required">Ingredient name is required</string>
+    <string name="err_quantity_invalid">Please enter a valid quantity greater than 0</string>
+
+    <!-- Suggested Recipes Screen -->
+    <string name="suggested_title">Smart Suggestions</string>
+    <string name="tab_ready_to_cook">Ready to Cook</string>
+    <string name="tab_almost_there">Almost There (1 missing)</string>
+    <string name="empty_suggested_msg">No recipes match your current pantry ingredients yet!\n\nAdd more ingredients to unlock recipes you can cook right now.</string>
+
+    <!-- Recipe Detail Screen -->
+    <string name="recipe_detail_title">Recipe Details</string>
+    <string name="lbl_ingredients_needed">Required Ingredients</string>
+    <string name="lbl_instructions">Instructions</string>
+    <string name="btn_cooked_this">I Cooked This! (Deduct Ingredients)</string>
+    <string name="msg_cooked_success">Pantry quantities updated for cooked recipe!</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings &amp; Preferences</string>
+    <string name="pref_alerts_title">Expiring Soon Alerts</string>
+    <string name="pref_alerts_desc">Highlight items expiring within threshold</string>
+    <string name="pref_days_title">Alert Threshold (Days)</string>
+    <string name="pref_unit_title">Preferred Measurement System</string>
+    <string name="btn_seed_sample">Reset &amp; Add Sample Pantry Data</string>
+    <string name="msg_sample_seeded">Sample pantry ingredients loaded!</string>
+</resources>
