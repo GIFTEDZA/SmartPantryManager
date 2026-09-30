@@ -34,4 +34,4 @@ Smart Pantry Manager is a native Android application written in Java designed to
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/SmartPantryManager.git](https://github.com/YOUR_USERNAME/SmartPantryManager.git)
+   git clone [https://github.com/YOUR_USERNAME/SmartPantryManager.git](https://github.com/GIFTEDZA/SmartPantryManager.git)
