@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/23e4f7eb-aa18-4e15-bbdc-6d499d74b19e
+
+
 # Smart Pantry Manager
 
 ## Overview
